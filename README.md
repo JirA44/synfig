@@ -16,6 +16,18 @@ https://synfig.org/
 [![GitHub Actions](https://github.com/synfig/synfig/workflows/Synfig%20CI/badge.svg?branch=master)](https://github.com/synfig/synfig/actions)
 [![Windows Build status](https://img.shields.io/appveyor/ci/synfig/synfig/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/Synfig/synfig/branch/master)
 
+## Présentation en français
+
+Synfig Studio est un logiciel libre d’animation 2D pour créer des animations à partir d’illustrations vectorielles ou bitmap, sans dessiner chaque image manuellement.
+
+### À quoi ça sert, et pourquoi ?
+
+Les images clés et les interpolations permettent de produire des mouvements à partir d’un nombre réduit de dessins. Le logiciel peut convenir à des projets d’animation 2D sur Windows, Linux et macOS.
+
+### Exemple
+
+Créer un personnage ou un décor à partir de formes vectorielles, définir quelques poses clés, régler l’interpolation puis exporter une séquence animée.
+
 Installing
 ----------
 
